@@ -1,0 +1,11 @@
+ID  ,  Headache  ,  Fever  ,  Vomiting  ,  Meningitis
+1  ,  true  ,  true  ,  false  ,  false
+2  ,  false  ,  true  ,  false  ,  false
+3  ,  true  ,  false  ,  true  ,  false
+4  ,  true  ,  false  ,  true  ,  false
+5  ,  false  ,  true  ,  false  ,  true
+6  ,  true  ,  false  ,  true  ,  false
+7  ,  true  ,  false  ,  true  ,  false
+8  ,  true  ,  false  ,  true  ,  true
+9  ,  false  ,  true  ,  false  ,  false
+10  ,  true  ,  false  ,  true  ,  true

@@ -1,0 +1,8 @@
+	 , Core- , Stable ,  , 
+ID	 , Temp , Temp , Gender , Decision
+1 , high , true , male , gen 
+2 , low , true , female , icu 
+3 , high , false , female , icu 
+4 , high , false , male , icu 
+5 , low , false , female , icu 
+6 , low , true , male , icu 

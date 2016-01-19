@@ -1,0 +1,12 @@
+1 , winter , false , 800 
+2 , winter , false , 826 
+3 , winter , true , 900 
+4 , spring , false , 2100 
+5 , spring , true , 4740 
+6 , spring , true , 4900 
+7 , summer , false , 3000 
+8 , summer , true , 5800 
+9 , summer , true , 6200 
+10 , autumn , false , 2910 
+11 , autumn , false , 2880 
+12 , autumn , true , 2820

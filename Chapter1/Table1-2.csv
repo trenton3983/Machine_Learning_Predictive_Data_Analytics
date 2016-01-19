@@ -1,0 +1,28 @@
+ 	  ,  	  ,   	 ,   Loan- 	  ,    	  ,   	  ,   	  ,    ,    
+ 	  ,  	  ,   	 ,   Salary 	  ,    	  ,   	  ,   	  ,    ,    
+ ID 	  ,  Amount 	  ,   Salary 	 ,   Ratio 	  ,   Age  	  ,   Occupation 	  ,   Property 	  ,   Type  ,   Outcome  
+1  ,  245100	  ,  	66400	  ,  	3.69	  ,  	44	  ,  	industrial	  ,  	farm	  ,  	stb	  ,  	repay	 
+2  ,  90600	  ,  	75300	  ,  	1.2	  ,  	41	  ,  	industrial	  ,  	farm	  ,  	stb	  ,  	repay	 
+3  ,  195600	  ,  	52100	  ,  	3.75	  ,  	37	  ,  	industrial	  ,  	farm	  ,  	ftb	  ,  	default	 
+4  ,  157800	  ,  	67600	  ,  	2.33	  ,  	44	  ,  	industrial	  ,  	apartment	  ,  	ftb	  ,  	repay	 
+5  ,  150800	  ,  	35800	  ,  	4.21	  ,  	39	  ,  	professional	  ,  	apartment	  ,  	stb	  ,  	default	 
+6  ,  133000	  ,  	45300	  ,  	2.94	  ,  	29	  ,  	industrial	  ,  	farm	  ,  	ftb	  ,  	default	 
+7  ,  193100	  ,  	73200	  ,  	2.64	  ,  	38	  ,  	professional	  ,  	house	  ,  	ftb	  ,  	repay	 
+8  ,  215000	  ,  	77600	  ,  	2.77	  ,  	17	  ,  	professional	  ,  	farm	  ,  	ftb	  ,  	repay	 
+9  ,  83000	  ,  	62500	  ,  	1.33	  ,  	30	  ,  	professional	  ,  	house	  ,  	ftb	  ,  	repay	 
+10  ,  186100	  ,  	49200	  ,  	3.78	  ,  	30	  ,  	industrial	  ,  	house	  ,  	ftb	  ,  	default	 
+11  ,  161500	  ,  	53300	  ,  	3.03	  ,  	28	  ,  	professional	  ,  	apartment	  ,  	stb	  ,  	repay	 
+12  ,  157400	  ,  	63900	  ,  	2.46	  ,  	30	  ,  	professional	  ,  	farm	  ,  	stb	  ,  	repay	 
+13  ,  210000	  ,  	54200	  ,  	3.87	  ,  	43	  ,  	professional	  ,  	apartment	  ,  	ftb	  ,  	repay	 
+14  ,  209700	  ,  	53000	  ,  	3.96	  ,  	39	  ,  	industrial	  ,  	farm	  ,  	ftb	  ,  	default	 
+15  ,  143200	  ,  	65300	  ,  	2.19	  ,  	32	  ,  	industrial	  ,  	apartment	  ,  	ftb	  ,  	default	 
+16  ,  203000	  ,  	64400	  ,  	3.15	  ,  	44	  ,  	industrial	  ,  	farm	  ,  	ftb	  ,  	repay	 
+17  ,  247800	  ,  	63800	  ,  	3.88	  ,  	46	  ,  	industrial	  ,  	house	  ,  	stb	  ,  	repay	 
+18  ,  162700	  ,  	77400	  ,  	2.1	  ,  	37	  ,  	professional	  ,  	house	  ,  	ftb	  ,  	repay	 
+19  ,  213300	  ,  	61100	  ,  	3.49	  ,  	21	  ,  	industrial	  ,  	apartment	  ,  	ftb	  ,  	default	 
+20  ,  284100	  ,  	32300	  ,  	8.8	  ,  	51	  ,  	industrial	  ,  	farm	  ,  	ftb	  ,  	default	 
+21  ,  154000	  ,  	48900	  ,  	3.15	  ,  	49	  ,  	professional	  ,  	house	  ,  	stb	  ,  	repay	 
+22  ,  112800	  ,  	79700	  ,  	1.42	  ,  	41	  ,  	professional	  ,  	house	  ,  	ftb	  ,  	repay	 
+23  ,  252000	  ,  	59700	  ,  	4.22	  ,  	27	  ,  	professional	  ,  	house	  ,  	stb	  ,  	default	 
+24  ,  175200	  ,  	39900	  ,  	4.39	  ,  	37	  ,  	professional	  ,  	apartment	  ,  	stb	  ,  	default	 
+25  ,  149700	  ,  	58600	  ,  	2.55	  ,  	35	  ,  	industrial	  ,  	farm	  ,  	stb	  ,  	default	 

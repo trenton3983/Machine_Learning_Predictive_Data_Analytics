@@ -1,0 +1,22 @@
+Country  ,  Gini  ,  School  ,  Life  ,    ,  Gini  ,  School  ,  Life  ,  
+ID  ,  Coef  ,  Years  ,  Exp  ,  CPI  , Coef  ,  Years  ,  Exp  ,  CPI
+Afghanistan  ,  27.82  ,  0.40  ,  59.61  ,  1.52  ,  low  ,  low  ,  low  ,  low
+Argentina  ,  44.49  ,  10.10  ,  75.77  ,  3.00  ,  high  ,  low  ,  low  ,  low
+Australia  ,  35.19  ,  11.50  ,  82.09  ,  8.84  ,  low  ,  high  ,  high  ,  high
+Brazil  ,  54.69  ,  7.20  ,  73.12  ,  3.77  ,  high  ,  low  ,  low  ,  low
+Canada  ,  32.56  ,  14.20  ,  80.99  ,  8.67  ,  low  ,  high  ,  high  ,  high
+China  ,  42.06  ,  6.40  ,  74.87  ,  3.64  ,  high  ,  low  ,  low  ,  low
+Egypt  ,  30.77  ,  5.30  ,  70.48  ,  2.86  ,  low  ,  low  ,  low  ,  low
+Germany  ,  28.31  ,  12.00  ,  80.24  ,  8.05  ,  low  ,  high  ,  high  ,  high
+Haiti  ,  59.21  ,  3.40  ,  45.00  ,  1.80  ,  high  ,  low  ,  low  ,  low
+Ireland  ,  34.28  ,  11.50  ,  80.15  ,  7.54  ,  low  ,  high  ,  high  ,  high
+Israel  ,  39.2  ,  12.50  ,  81.30  ,  5.81  ,  low  ,  high  ,  high  ,  high
+New Zealand  ,  36.17  ,  12.30  ,  80.67  ,  9.46  ,  low  ,  high  ,  high  ,  high
+Nigeria  ,  48.83  ,  4.10  ,  51.30  ,  2.45  ,  high  ,  low  ,  low  ,  low
+Russia  ,  40.11  ,  12.90  ,  67.62  ,  2.45  ,  high  ,  high  ,  low  ,  low
+Singapore  ,  42.48  ,  6.10  ,  81.788  ,  9.17  ,  high  ,  low  ,  high  ,  high
+South Africa  ,  63.14  ,  8.50  ,  54.547  ,  4.08  ,  high  ,  low  ,  low  ,  low
+Sweden  ,  25.00  ,  12.80  ,  81.43  ,  9.30  ,  low  ,  high  ,  high  ,  high
+U.K.  ,  35.97  ,  13.00  ,  80.09  ,  7.78  ,  low  ,  high  ,  high  ,  high
+U.S.A  ,  40.81  ,  13.70  ,  78.51  ,  7.14  ,  high  ,  high  ,  high  ,  high
+Zimbabwe  ,  50.10  ,  6.7  ,  53.684  ,  2.23  ,  high  ,  low  ,  low  ,  low

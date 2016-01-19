@@ -1,0 +1,12 @@
+   ,   	  ,   	 ,   Loan-Salary   ,    
+ ID   ,   Occupation 	  ,   Age 	 ,   Ratio   ,   Outcome  
+1  ,  industrial	 ,  34	 ,  2.96  ,  repay  
+2  ,  professional	 ,  41	 ,  4.64	 ,  default  
+3  ,  professional	 ,  36	 ,  3.22	 ,  default  
+4  ,  professional	 ,  41	 ,  3.11	 ,  default  
+5  ,  industrial	 ,  48	 ,  3.80	 ,  default  
+6  ,  industrial	 ,  61	 ,  2.52	 ,  repay  
+7  ,  professional	 ,  37	 ,  1.50	 ,  repay  
+8  ,  professional	 ,  40	 ,  1.93	 ,  repay  
+9  ,  industrial	 ,  33	 ,  5.25	 ,  default  
+10  ,  industrial	 ,  32	 ,  4.15	 ,  default  

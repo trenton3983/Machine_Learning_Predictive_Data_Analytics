@@ -1,0 +1,7 @@
+	,		,		,		,		,		,		,		,		,		,	Num.	,	Avg.	,	Avg.	,	Num.	,	Percent		,		,	Claim ,		,	Claim	,		,		
+	,		,		,	Marital	,	Num.	,	Injury	,	Hospital	,	Claim	 	,	Total	,	Num.	,	Claims ,	Claims	,	Claims	,	Soft	,	Soft		,	Unsucc.	,	Amt. ,	Claim	,	to	,		,	Fraud	
+ID	,	Type	,	Inc.	,	Status	,	Clmnts.	,	Type	,	Stay	,	Amt.	ID	,	Claimed	,	Claims	,	3 Months ,	Per Year	,	Ratio	,	Tissue	,	Tissue, ID	,	Claims	,	Rec.	,	Div.	,	Prem.	,	Region	,	Flag	
+1	,	ci	,	0	,		,	2	,	soft tissue	,	no	,	1625	,	3250	,	2	,	0	,	1	,	1	,	2	,	1	,	2	,	0	,	0	,	32.5	,	mn	,	1	
+2	,	ci	,	0	,		,	2	,	back	,	yes	,	15028	,	60112	,	1	,	0	,	1	,	1	,	0	,	0	,	0	,	15028	,	0	,	57.14	,	dl	,	0	
+3	,	ci	,	54613	,	married	,	1	,	broken limb	,	no	,	-9999	,	0	,	0	,	0	,	0	,	0	,	0	,	0	,	0	,	572	,	0	,	-89.27	,	wat	,	0	
+4	,	ci	,	0	,		,	3	,	serious	,	yes	,	270200		,	0	,	0	,	0	,	0	,	0	,	0	,	0,	0	,	270200	,	0	,	30.186	,	dl	,	0	

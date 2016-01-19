@@ -1,0 +1,22 @@
+  ,  Credit  ,  Guarantor/  ,    ,  Account  ,  Loan  ,  
+ID  ,  History  ,  CoApplicant  ,  Accommodation  ,  Balance  ,  Amount  ,  Fraud
+1  ,  current   ,  none  ,  	own  ,  56.75  ,  900  ,  true
+2  ,  	current  ,  	none  ,  	own  ,  	1800.11 ,  	150000  , false
+3  ,  	current  ,  	none  ,  	own  ,  	1341.03  ,  	48000 ,  false
+4  ,  	paid  ,  	guarantor  ,  	rent  ,  	749.50  ,  	10000 , true
+5  ,  	arrears  ,  	none  ,  	own  ,  	1150.00  ,  	32000 , false
+6  ,  	arrears  ,  	none  ,  	own  ,  	928.30  ,  	250000 , true
+7  ,  	current  ,  	none  ,  	own  ,   250.90 ,  	25000 ,  false
+8  ,  	arrears  ,  	none  ,  	own  ,  	806.15  ,  	18500 , false
+9  ,  	current  ,  	none  ,  	rent  ,  1209.02  ,  	20000 , false
+10  ,  	none   ,  	none  ,  	own ,  	405.72  ,  	9500 , true
+11  ,  	current  ,  	coapplicant  ,  	own  ,  	550.00  ,  	16750 , false
+12  ,  	current  ,  	none  ,  	free  ,  	223.89  ,  	9850 , true
+13  ,  	current  ,  	none  ,  	rent  ,  	103.23  ,  	95500 , true
+14  ,  	paid  ,  	none  ,  	own  ,  	758.22  ,  	65000 , false
+15  ,  	arrears  ,  	none  ,  	own  ,  	430.79  ,  	500 , false
+16  ,  	current  ,  	none  ,  	own  ,  	675.11   ,  	16000 , false
+17  ,  	arrears  ,  	coapplicant  ,  	rent  ,  	1657.20  ,  	15450 , false
+18  ,  	arrears  ,  	none  ,  	free  ,  	1405.18  ,  	50000 , false
+19  ,  	arrears  ,  	none  ,  	own  ,  	760.51  ,  	500 , false
+20  ,  	current  ,  	none  ,  	own  ,  985.41  ,  	35000 , false

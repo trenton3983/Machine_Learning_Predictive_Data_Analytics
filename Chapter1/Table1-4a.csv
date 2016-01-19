@@ -1,0 +1,9 @@
+Bby 	 , 	 Alc 	 , 	 Org 	 , 	  Grp  	 , 	  M _1 	 , 	  M _2 	 , 	  M _3 	 , 	  M _4 	 , 	  M _5 	 , 	   	 , 	  M _6561  	 
+no	 , 	no	 , 	no	 ,  ?	 , 	couple		 , 	couple	 , 	single	 , 	couple	 , 	couple		 , 	 	 , 	couple	 
+no	 , 	no	 , 	yes	 , 	?	 , 	single		 , 	couple	 , 	single	 , 	couple	 , 	couple		 , 		 , 	single	 
+no	 , 	yes	 , 	no	 , 	?	 , 	family	 , 	family	 , 	single	 , 	single	 , 	single		 , 		 , 	family	 
+no	 , 	yes	 , 	yes	 , 	?	 , 	single	 , 	single	 , 	single	 , 	single	 , 	single		 , 		 , 	couple	 
+yes	 , 	no	 , 	no	 , 	?	 , 	couple		 , 	couple	 , 	family	 , 	family	 , 	family		 , 		 , 	family	 
+yes	 , 	no	 , 	yes	 , 	?	 , 	couple		 , 	family	 , 	family	 , 	family	 , 	family	 , 		 , 	couple	 
+yes	 , 	yes	 , 	no	 , 	?	 , 	single	 , 	family	 , 	family	 , 	family	 , 	family	 , 		 , 	single	 
+yes	 , 	yes	 , 	yes	 , 	?	 , 	single	 , 	single	 , 	family	 , 	family	 , 	couple	  , 		 , 	family	 
